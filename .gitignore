@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.env
+venv/
+.env/
+
+# API keys / secrets
+.env
+config.py
+
+# Models (adjust depending on your structure)
+models/
+*.pkl
+*.h5
+*.pt
+
+# Data (optional if sensitive or large)
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+agents/models/
